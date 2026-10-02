@@ -1,0 +1,10 @@
+{
+  "gpt-4o-mini:v1": {
+    "model_id": "gpt-4o-mini",
+    "version": "v1",
+    "total_calls": 2,
+    "total_input_tokens": 6,
+    "total_output_tokens": 100,
+    "total_cost": 6e-05
+  }
+}
