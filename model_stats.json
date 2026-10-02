@@ -2,9 +2,9 @@
   "gpt-4o-mini:v1": {
     "model_id": "gpt-4o-mini",
     "version": "v1",
-    "total_calls": 4,
-    "total_input_tokens": 12,
-    "total_output_tokens": 200,
-    "total_cost": 0.00012
+    "total_calls": 8,
+    "total_input_tokens": 24,
+    "total_output_tokens": 400,
+    "total_cost": 0.00024
   }
 }
